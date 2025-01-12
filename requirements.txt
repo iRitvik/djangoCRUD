@@ -1,3 +1,5 @@
 gunicorn
 whitenoise
 django
+dj-database-url
+MySQLdb
